@@ -1,0 +1,26 @@
+﻿  RenderAPI.cpp
+  RenderAPI_D3D11.cpp
+  RenderingPlugin.cpp
+     正在建立程式庫 E:\Projects\OT2\trunk\app\ForwardGBufferPluginSource\projects\VisualStudio2015\..\..\build\x64\Release\ForwardGBuffer.lib 和物件 E:\Projects\OT2\trunk\app\ForwardGBufferPluginSource\projects\VisualStudio2015\..\..\build\x64\Release\ForwardGBuffer.exp
+  正在產生程式碼
+  12 of 37 functions (32.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  RenderingPlugin.vcxproj -> E:\Projects\OT2\trunk\app\ForwardGBufferPluginSource\projects\VisualStudio2015\..\..\build\x64\Release\ForwardGBuffer.dll
+  Target Plugin Path is E:\Projects\OT2\trunk\app\ForwardGBufferPluginSource\projects\VisualStudio2015\..\..\..\UnityProject\Assets\Plugins\x86_64
+  系統找不到指定的路徑。
+  複製了         0 個檔案。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: "SETLOCAL
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: 
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: if "x64" == "x86" (
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073:   set TARGET_PLUGIN_PATH=E:\Projects\OT2\trunk\app\ForwardGBufferPluginSource\projects\VisualStudio2015\..\..\..\UnityProject\Assets\Plugins\x86
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: ) else (
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073:   set TARGET_PLUGIN_PATH=E:\Projects\OT2\trunk\app\ForwardGBufferPluginSource\projects\VisualStudio2015\..\..\..\UnityProject\Assets\Plugins\x86_64
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: )
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: echo Target Plugin Path is %TARGET_PLUGIN_PATH%
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: copy /Y "E:\Projects\OT2\trunk\app\ForwardGBufferPluginSource\projects\VisualStudio2015\..\..\build\x64\Release\ForwardGBuffer.dll" "%TARGET_PLUGIN_PATH%\ForwardGBuffer.dll"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: 
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: ENDLOCAL
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: 
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :VCEnd" 命令以返回碼 1 結束。
